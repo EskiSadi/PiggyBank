@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\obj\Debug\PiggyBankLast.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\obj\Debug\PiggyBankLast.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\obj\Debug\PiggyBankLast.Form1.resources
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\obj\Debug\PiggyBankLast.Properties.Resources.resources
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\obj\Debug\PiggyBankLast.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\obj\Debug\PiggyBankLast.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\bin\Debug\PiggyBankLast.exe.config
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\bin\Debug\PiggyBankLast.exe
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\bin\Debug\PiggyBankLast.pdb
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\obj\Debug\PiggyBankLast.exe
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\obj\Debug\PiggyBankLast.pdb
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\bin\Debug\PiggyBankLast.exe.manifest
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\bin\Debug\PiggyBankLast.application
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\obj\Debug\PiggyBankLast.exe.manifest
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\obj\Debug\PiggyBankLast.application
+C:\Users\user\Desktop\Test\EF\PiggyBankLast\PiggyBankLast\obj\Debug\PiggyBankLast.Form2.resources
