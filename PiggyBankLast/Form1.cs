@@ -89,8 +89,6 @@ namespace PiggyBankLast
                             dolanHacimShaken += (Para.hacim);
                             list_of_money.Add(new_money);
                             toplam += Para.GetMoneyValue();
-                            SoundPlayer player = new SoundPlayer("C:\\Users\\user\\Desktop\\pyoperant\\satiscoin.wav");
-                            player.Play();
                             MessageBox.Show("Money added!");
                         }
                         else
@@ -110,8 +108,6 @@ namespace PiggyBankLast
                             dolanHacimShaken += (Para.hacim);
                             list_of_money.Add(new_money);
                             toplam += Para.GetMoneyValue();
-                            SoundPlayer player = new SoundPlayer("C:\\Users\\user\\Desktop\\pyoperant\\satiscoin.wav");
-                            player.Play();
                             MessageBox.Show("Money added!");
                             Para.is_folded = false;
                         }
@@ -149,8 +145,6 @@ namespace PiggyBankLast
                 }
                 else
                 {
-                    SoundPlayer boom = new SoundPlayer("C:\\Users\\user\\Desktop\\pyoperant\\boom.wav");
-                    boom.Play();
                     MessageBox.Show("You have broken the bank!");
                     MessageBox.Show("Balance: " + toplam.ToString());
                     toplam = 0;
@@ -166,8 +160,6 @@ namespace PiggyBankLast
                 {
                     if (is_broken == true)
                     {
-                        SoundPlayer coin = new SoundPlayer("C:\\Users\\user\\Desktop\\pyoperant\\coin1.wav");
-                        coin.Play();
                         MessageBox.Show("Piggy bank is fixed");
                         is_broken = false;
                     }
